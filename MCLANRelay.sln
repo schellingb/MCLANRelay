@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}") = "MCLANRelay", "MCLANRelay.vcxproj", "{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release-Cmd|Win32 = Release-Cmd|Win32
+		Release-Cmd|x64 = Release-Cmd|x64
+		Release-Icon|Win32 = Release-Icon|Win32
+		Release-Icon|x64 = Release-Icon|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|Win32.Build.0 = Debug|Win32
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|x64.ActiveCfg = Debug|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|x64.Build.0 = Debug|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Cmd|Win32.ActiveCfg = Release-Cmd|Win32
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Cmd|Win32.Build.0 = Release-Cmd|Win32
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Cmd|x64.ActiveCfg = Release-Cmd|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Cmd|x64.Build.0 = Release-Cmd|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Icon|Win32.ActiveCfg = Release-Icon|Win32
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Icon|Win32.Build.0 = Release-Icon|Win32
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Icon|x64.ActiveCfg = Release-Icon|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release-Icon|x64.Build.0 = Release-Icon|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = TRUE
+	EndGlobalSection
+EndGlobal

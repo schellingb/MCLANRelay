@@ -1,0 +1,15 @@
+Debug-32/
+Debug-64/
+Release-Cmd-32/
+Release-Cmd-64/
+Release-Icon-32/
+Release-Icon-64/
+.vs/
+*.sdf
+*.opensdf
+*.user
+*.suo
+*.aps
+*.ipch
+*-i686
+*-x86_64

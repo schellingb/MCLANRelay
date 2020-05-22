@@ -1,0 +1,28 @@
+#include <windows.h>
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#ifdef MCLANRELAY_USE_WIN32SYSTRAY
+ICN ICON DISCARDABLE "MCLANRelay.ico"
+#endif
+1 VERSIONINFO
+	FILEVERSION     1,0,0,0
+	PRODUCTVERSION  1,0,0,0
+	FILEOS          VOS_NT_WINDOWS32
+	FILETYPE        VFT_APP
+{
+	BLOCK "StringFileInfo"
+	{
+		BLOCK "040904b0"
+		{
+			VALUE "FileDescription", "MCLANRelay"
+			VALUE "FileVersion", "1.0"
+			VALUE "ProductName", "MCLANRelay"
+			VALUE "ProductVersion", "1.0"
+			VALUE "InternalName", "MCLANRelay"
+			VALUE "OriginalFilename", "MCLANRelay.exe"
+		}
+	}
+	BLOCK "VarFileInfo"
+	{
+		VALUE "Translation", 0x409, 1252
+	}
+}

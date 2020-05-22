@@ -1,0 +1,3 @@
+echo Building \'MCLANRelay-`uname -m`\' ...
+clang -std=c++11 main.cpp -lstdc++ -lpthread -Wall -o MCLANRelay-`uname -m`
+echo Done!
